@@ -1,0 +1,13 @@
+################################################################################
+5-21-17: #######################################################################
+• Time localization:
+
+    "... we may want to extend our application in the future to support users in
+    many countries. In that case, we’d want to localize the display of the time,
+    choosing a time appropriate to the user’s time zone. That would require
+    a fair amount of application-level code, and it would probably not be
+    appropriate to embed it at the view level"
+
+    ~ Agile Web Development with Rails 5.1 (for Martin Fencl).
+
+################################################################################
